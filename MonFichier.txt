@@ -1,2 +1,3 @@
 Hello world! Salut les copains !
 test1
+test pair caractères
